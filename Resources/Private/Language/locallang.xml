@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>module</type>
+		<description>Language labels for the FlexibleGalery extension in the FRONTEND</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_flexgal_domain_model_image">Image</label>
+			<label index="tx_flexgal_domain_model_image.file">file</label>
+			<label index="tx_flexgal_domain_model_image.title">title</label>
+			<label index="tx_flexgal_domain_model_image.description">description</label>
+		</languageKey>
+	</data>
+</T3locallang>

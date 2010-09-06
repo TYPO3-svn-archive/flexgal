@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'flexgal'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="tx_flexgal_domain_model_image">Image</label>
+			<label index="tx_flexgal_domain_model_image.file">File</label>
+			<label index="tx_flexgal_domain_model_image.title">Title</label>
+			<label index="tx_flexgal_domain_model_image.description">Description</label>
+		</languageKey>
+	</data>
+</T3locallang>
